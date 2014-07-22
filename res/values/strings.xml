@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Vacina Recife</string>
+    <string name="about">Sobre</string>
+    <string name="vaccine_calendar">Calendário de Vacinação</string>
+    <string name="vaccination_units">Unidades de Vacinação</string>
+    <string name="vaccine">Vacina</string>
+    <string name="recife">Recife</string>
+
+</resources>

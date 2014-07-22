@@ -1,0 +1,282 @@
+[
+    {
+        "age": "Ao nascer",
+        "vaccineName": "BCG",
+        "description": "Formas graves da Tuberculose",
+        "dosage": "Dose única",
+        "dosageQuantity": "0,1 ml ",
+        "way": "Intradérmica"
+    },
+    {
+        "age": "Ao nascer",
+        "vaccineName": "Hepatite B",
+        "description": "Hepatite B",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "2 meses",
+        "vaccineName": "Vacina Pentavalente   (DTP + Hib + HB)",
+        "description": "Difteria, Tétano, Coqueluche e Doenças Causadas pelo Hemófilos Influenzae tipo B (Meningite, Pneumonia) e Hepatite B",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "2 meses",
+        "vaccineName": "Vacina Inativada contra a Poliomielite (VIP)",
+        "description": "Poliomielite ou Parasilia Infantil",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "2 meses",
+        "vaccineName": "Vacina Oral Rotavírus Humano (VORH)",
+        "description": "Gastroenterite causada pelo Rotavírus",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "1,5 ml",
+        "way": "Oral"
+    },
+    {
+        "age": "2 meses",
+        "vaccineName": "Pneumocócica 10",
+        "description": "Doenças causadas pelos pneumococos (Meningite, Pneumonia, Otite, etc.)",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "3 meses",
+        "vaccineName": "Meningocócica C",
+        "description": "Meningite Meningocócica Tipo C",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "4 meses",
+        "vaccineName": "Vacina Pentavalente   (DTP + Hib +  HB)",
+        "description": "Difteria, Tétano, Coqueluche e Doenças Causadas pelo Hemófilos Influenzae tipo B (Meningite, Pneumonia) e Hepatite B",
+        "dosage": "2ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "4 meses",
+        "vaccineName": "Vacina Inativada contra a Poliomielite (VIP)",
+        "description": "Poliomielite ou Parasilia Infantil",
+        "dosage": "2ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "4 meses",
+        "vaccineName": "Vacina Oral Rotavírus Humano (VORH)",
+        "description": "Gastroenterite causada pelo Rotavírus",
+        "dosage": "2ª Dose",
+        "dosageQuantity": "1,5 ml",
+        "way": "Oral"
+    },
+    {
+        "age": "4 meses",
+        "vaccineName": "Pneumocócica 10",
+        "description": "Doenças causadas pelos pneumococos (Meningite, Pneumonia, Otite, etc.)",
+        "dosage": "2ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "5 meses",
+        "vaccineName": "Meningocócica C",
+        "description": "Meningite Meningocócica Tipo C",
+        "dosage": "2ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "6 meses",
+        "vaccineName": "Pneumocócica 10",
+        "description": "Doenças causadas pelos pneumococos (Meningite, Pneumonia, Otite, etc.)",
+        "dosage": "3ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "6 meses",
+        "vaccineName": "Vacina Oral contra Poliomielite (VOP)",
+        "description": "Poliomielite ou Parasilia Infantil",
+        "dosage": "3ª Dose",
+        "dosageQuantity": "02 gotas",
+        "way": "Oral"
+    },
+    {
+        "age": "6 meses",
+        "vaccineName": "Vacina Pentavalente   (DTP + Hib + HB)",
+        "description": "Difteria, Tétano, Coqueluche e Doenças Causadas pelo Hemófilos Influenzae tipo B (Meningite, Pneumonia) e Hepatite B",
+        "dosage": "3ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "9 meses",
+        "vaccineName": "Febre Amarela",
+        "description": "Febre Amarela",
+        "dosage": "Dose Inicial",
+        "dosageQuantity": "0,5 ml",
+        "way": "Subcutânea"
+    },
+    {
+        "age": "12 meses",
+        "vaccineName": "Tríplice Viral (SCR)",
+        "description": "Sarampo, Caxumba e Rubéola",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Subcutânea"
+    },
+    {
+        "age": "12 meses",
+        "vaccineName": "Pneumocócica 10",
+        "description": "Doenças causadas pelos pneumococos (Meningite, Pneumonia, Otite, etc.)",
+        "dosage": "Reforço",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "15 meses",
+        "vaccineName": "Tríplice Bacteriana (DTP)",
+        "description": "Difteria, Tétano, Coqueluche.",
+        "dosage": "1º Reforço",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "15 meses",
+        "vaccineName": "Poliomielite (oral)",
+        "description": "Poliomielite ou Parasilia Infantil",
+        "dosage": "Reforço",
+        "dosageQuantity": "02 gotas",
+        "way": "Oral"
+    },
+    {
+        "age": "15 meses",
+        "vaccineName": "Meningocócica C",
+        "description": "Meningite Meningocócica Tipo C",
+        "dosage": "Reforço",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "15 meses",
+        "vaccineName": "Tetra Viral",
+        "description": "Sarampo, Caxumba, Rubéola e Varicela",
+        "dosage": "2ª Dose",
+        "dosageQuantity": "0,5 ml",
+        "way": "Subcutânea"
+    },
+    {
+        "age": "4 anos",
+        "vaccineName": "Tríplice Bacteriana (DTP)",
+        "description": "Difteria, Tétano, Coqueluche.",
+        "dosage": "2º Reforço",
+        "dosageQuantity": "0,5 ml",
+        "way": "Intramuscular"
+    },
+    {
+        "age": "10 anos",
+        "vaccineName": "Febre Amarela",
+        "description": "Febre Amarela",
+        "dosage": "1 Dose a cada 10 anos",
+        "dosageQuantity": "0,5 ml",
+        "way": "Subcutânea"
+    },
+    {
+        "age": "10 a 19 anos",
+        "vaccineName": "Hepatite B",
+        "description": "Hepatite B",
+        "dosage": "1ª Dose",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "10 a 19 anos",
+        "vaccineName": "Febre Amarela",
+        "description": "Febre Amarela",
+        "dosage": "1 Dose a cada 10 anos",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "10 a 19 anos",
+        "vaccineName": "Tríplice Viral (SCR)",
+        "description": "Sarampo, Caxumba e Rubéola",
+        "dosage": "2 doses",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "10 a 19 anos",
+        "vaccineName": "Dupla Adulto (dT)",
+        "description": "Difteria e Tétano",
+        "dosage": "Após completar esquema de 3 doses, fazer reforço a cada 10 anos",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "20 a 59 anos",
+        "vaccineName": "Hepatite B ",
+        "description": "Hepatite B",
+        "dosage": "3 doses (até 49 anos) ",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "20 a 59 anos",
+        "vaccineName": "Dupla Adulto (dT)",
+        "description": "Difteria e Tétano",
+        "dosage": "Após completar esquema de 3 doses, fazer reforço a cada 10 anos",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "20 a 59 anos",
+        "vaccineName": "Febre Amarela",
+        "description": "Febre Amarela",
+        "dosage": "1 Dose a cada 10 anos",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "20 a 59 anos",
+        "vaccineName": "Tríplice Viral (SCR)",
+        "description": "Sarampo, Caxumba e Rubéola",
+        "dosage": "1 dose (até 49 anos)",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "60 anos e mais",
+        "vaccineName": "Febre Amarela",
+        "description": "Febre Amarela",
+        "dosage": "1 Dose a cada 10 anos",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "60 anos e mais",
+        "vaccineName": "Influenza Sazonal",
+        "description": "Influenza (Gripe)",
+        "dosage": "Dose anual",
+        "dosageQuantity": "",
+        "way": ""
+    },
+    {
+        "age": "60 anos e mais",
+        "vaccineName": "Pneumocócica 23",
+        "description": "Doenças causadas pelos pneumococos (Meningite, Pneumonia, Otite, etc.)",
+        "dosage": "Dose única",
+        "dosageQuantity": "",
+        "way": ""
+    }
+]

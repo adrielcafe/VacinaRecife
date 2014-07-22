@@ -1,0 +1,1478 @@
+[
+    {
+        "rpa": "1",
+        "unit": "US 232 USF ILHA SANTA TEREZINHA / SANTO AMARO III",
+        "address": "RUA ARTENIS, 9  - SANTO AMARO",
+        "district": "SANTO AMARO",
+        "phone": "3355-4668",
+        "latitude": "-8,039779689",
+        "longitude": "-34,87703218"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 242 USF SANTO AMARO I / SITIO DO CEU",
+        "address": "RUA ANCHIETA, 520  - SANTO AMARO",
+        "district": "SANTO AMARO",
+        "phone": "3355-4704",
+        "latitude": "-8,041531387",
+        "longitude": "-34,88040273"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 243 USF SANTO AMARO II",
+        "address": "RUA BUARQUE DE MACEDO, 65  - SANTO AMARO",
+        "district": "SANTO AMARO",
+        "phone": "3355-6798",
+        "latitude": "-8,045709252",
+        "longitude": "-34,87815036"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 278 USF NOSSA SENHORA DO PILAR",
+        "address": "AV MILITAR, S/N - BAIRRO DO RECIFE",
+        "district": "BAIRRO DO RECIFE",
+        "phone": "3355-6691",
+        "latitude": "-8,05259663",
+        "longitude": "-34,87239009"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 334 USF CABANGA",
+        "address": "RUA ESCRITOR SOUZA BARROS, 334 - CABANGA",
+        "district": "CABANGA",
+        "phone": "3355-6418",
+        "latitude": "-8,079219384",
+        "longitude": "-34,89969453"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 218 USF COQUE / DR BERILO PERNAMBUCANO",
+        "address": "RUA GUAPIRAMA, 65, COQUE  - ILHA JOANA BEZERRA",
+        "district": "ILHA JOANA BEZERRA",
+        "phone": "3355-4656",
+        "latitude": "-8,071488433",
+        "longitude": "-34,89980374"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 240 USF COELHOS I",
+        "address": "RUA BITURUNA, 110  - COELHOS",
+        "district": "COELHOS",
+        "phone": "3355-4648",
+        "latitude": "-8,068240629",
+        "longitude": "-34,89045505"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 241 USF COELHOS II",
+        "address": "RUA DR JOSE MARIANO, 699 - COELHOS",
+        "district": "COELHOS",
+        "phone": "3355-4653",
+        "latitude": "-8,06611592",
+        "longitude": "-34,88832823"
+    },
+    {
+        "rpa": "1",
+        "unit": "US 285 USF SAO JOSE DO COQUE",
+        "address": "AV CENTRAL, 10 - ILHA JOANA BEZERRA",
+        "district": "ILHA JOANA BEZERRA",
+        "phone": "3355-6226",
+        "latitude": "-8,072817109",
+        "longitude": "-34,89627748"
+    },
+    {
+        "rpa": "1",
+        "unit": "Instituto Materno-Infantil de Pernambuco (IMIP)",
+        "address": "RUA DOS COELHOS, 300 - BOA VISTA",
+        "district": "BOA VISTA",
+        "phone": "2122-4100",
+        "latitude": "-8,066039",
+        "longitude": "-34,889833"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 221 USF ILHA DE JOANEIRO I E II",
+        "address": "RUA MARECHAL DEODORO - 688, CAMPO GRANDE",
+        "district": "CAMPO GRANDE",
+        "phone": "3355-6150",
+        "latitude": "-8,035598781",
+        "longitude": "-34,88276532"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 226 USF CHAO DE ESTRELAS I E II",
+        "address": "RUA DR ELIAS GOMES, 65  - CAMPINA DO BARRETO",
+        "district": "CAMPINA DO BARRETO",
+        "phone": "3355-6694",
+        "latitude": "-8,019401936",
+        "longitude": "-34,88090062"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 227 USF TASSO BEZERRA - CHIE I",
+        "address": "RUA CONTINENTAL, 270 - ILHA DO CHIE - CAMPO GRANDE",
+        "district": "CAMPO GRANDE",
+        "phone": "3355-6695",
+        "latitude": "-8,036199913",
+        "longitude": "-34,87625486"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 244  USF PROFESSOR ANTONIO FRANCISCO AREIAS /VALE DA PRATA / SARAMANDAIA",
+        "address": "AV JARDIM BRASILIA, 145 - PEIXINHOS",
+        "district": "PEIXINHOS",
+        "phone": "3355-6212",
+        "latitude": "-8,017411869",
+        "longitude": "-34,87407665"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 262 USF JOSE SEVERIANO DA SILVA /CAPILE /CANAL DO ARRUDA",
+        "address": "AV JERONIMO VILELA, 794 - CAMPO GRANDE",
+        "district": "CAMPO GRANDE",
+        "phone": "3355-6170",
+        "latitude": "-8,025127716",
+        "longitude": "-34,88263033"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 271 USF TASSO BEZERRA - CHIE II",
+        "address": "RUA GUAIANASES, 379 - CAMPO GRANDE",
+        "district": "CAMPO GRANDE",
+        "phone": "3355-6430",
+        "latitude": "-8,035912123",
+        "longitude": "-34,87822813"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 286 USF IRMA TEREZINHA I E II",
+        "address": "RUA DA CONSOLACAO, 09  - PEIXINHOS",
+        "district": "PEIXINHOS",
+        "phone": "3355-6155",
+        "latitude": "-8,020078401",
+        "longitude": "-34,87795145"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 138 USF DR LUIZ WILSON",
+        "address": "RUA CHA DE ALEGRIA, S/N - BOMBA DO HEMETERIO",
+        "district": "BOMBA DO HEMETERIO",
+        "phone": "3355-3165",
+        "latitude": "-8,021139901",
+        "longitude": "-34,90441318"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 179 USF ALTO DO CEU / PORTO DA MADEIRA",
+        "address": "RUA CAPITAO SALGUEIRO, 267 - PORTO DA MADEIRA",
+        "district": "PORTO DA MADEIRA",
+        "phone": "3355-6206",
+        "latitude": "-8,009710701",
+        "longitude": "-34,89145005"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 274 USF TIA REGINA / CORREGO DO DEODATO",
+        "address": "RUA CORREGO DO DEODATO, 315 - AGUA FRIA",
+        "district": "AGUA FRIA",
+        "phone": "3355-4708",
+        "latitude": "-8,013924296",
+        "longitude": "-34,90013982"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 276 USF ALTO DO PASCOAL",
+        "address": "AV ANIBAL BENEVOLO, S/N, ALTO DO PASCOAL - LINHA DO TIRO",
+        "district": "LINHA DO TIRO",
+        "phone": "3355-4628",
+        "latitude": "-8,011471981",
+        "longitude": "-34,90441175"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 302 USF BYRON SARINHO",
+        "address": "RUA NAZARE, 293  - AGUA FRIA",
+        "district": "AGUA FRIA",
+        "phone": "3355-6510",
+        "latitude": "-8,017193578",
+        "longitude": "-34,89581297"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 222 USF CORREGO DO CURIO",
+        "address": "RUA CORREGO DO CURIO, 73  - DOIS UNIDOS",
+        "district": "DOIS UNIDOS",
+        "phone": "3355-4665",
+        "latitude": "-8,000609099",
+        "longitude": "-34,91593382"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 273 USF BIANOR TEODOSIO / DOIS UNIDOS",
+        "address": "AV HILDEBRANDO DE VASCONCELOS, S/N - DOIS UNIDOS",
+        "district": "DOIS UNIDOS",
+        "phone": "3355-6094",
+        "latitude": "-7,988657016",
+        "longitude": "-34,91736657"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 291 USF ALTO DOS COQUEIROS / CORREGO DA JAQUEIRA / LINHA DO TIRO",
+        "address": "RUA CORREGO DA JAQUEIRA, 160 - LINHA DO TIRO",
+        "district": "LINHA DO TIRO",
+        "phone": "3355-4660",
+        "latitude": "-8,007926199",
+        "longitude": "-34,90147594"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 309 USF PONTO DE PARADA",
+        "address": "RUA RAMIZ GALVAO, 379 - ARRUDA",
+        "district": "ARRUDA",
+        "phone": "3355-6095",
+        "latitude": "-8,025612626",
+        "longitude": "-34,89662631"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 327 USF CLUBE DOS DELEGADOS / VISC. DE GARRET",
+        "address": "RUA JOAO CAVALCANTI PETRIBU, S/N - DOIS UNIDOS",
+        "district": "DOIS UNIDOS",
+        "phone": "3355-6905",
+        "latitude": "-7,991575926",
+        "longitude": "-34,91743889"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 328 USF ALTO DO MARACANA",
+        "address": "RUA SUBIDA MEDALHA MILAGROSA, 153, ALTO DO MARACANA  - DOIS UNIDOS",
+        "district": "DOIS UNIDOS",
+        "phone": "3355-6972",
+        "latitude": "-8,003869404",
+        "longitude": "-34,90848785"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 339 USF ALTO DO CAPITAO",
+        "address": "RUA TUBIRACABA, S/N  - DOIS UNIDOS",
+        "district": "DOIS UNIDOS",
+        "phone": "3355-6922",
+        "latitude": "-8,000008412",
+        "longitude": "-34,91394503"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 376 POLICLÍNICA SALOMÃO KELNER",
+        "address": "RUA ESTRADA VELHA DE ÁGUA FRIA, S/N, ÁGUA FRIA",
+        "district": "ÁGUA FRIA",
+        "phone": "3355-9900",
+        "latitude": "-8,015850039",
+        "longitude": "-34,89576176"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 155 MONTEIRO MORAES",
+        "address": "AV BEBERIBE, 4510 - BEBERIBE",
+        "district": "BEBERIBE",
+        "phone": "3355-7839",
+        "latitude": "-8,004098911",
+        "longitude": "-34,89691814"
+    },
+    {
+        "rpa": "2",
+        "unit": "US 169 POLICLÍNICA AMAURY COUTINHO",
+        "address": "RUA IGUATU, S/N - CAMPINA DO BARRETO",
+        "district": "CAMPINA DO BARRETO",
+        "phone": "3355-7875",
+        "latitude": "-8,015850039",
+        "longitude": "-34,88201221"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 336 USF UNIAO DAS VILAS",
+        "address": "RUA GOMES PACHECO, 198 - ESPINHEIRO",
+        "district": "ESPINHEIRO",
+        "phone": "3355-6134",
+        "latitude": "-8,041365573",
+        "longitude": "-34,88706315"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 182 USF POCO DA PANELA",
+        "address": "RUA IRMA MARIA DA PAZ, 108 - POCO DA PANELA",
+        "district": "POCO DA PANELA",
+        "phone": "3355-6202",
+        "latitude": "-8,037562298",
+        "longitude": "-34,92489414"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 216 USF APIPUCOS / SÃO JOAO",
+        "address": "RUA CORONEL JOAO BATISTA DO REGO BARROS, 56 - APIPUCOS",
+        "district": "APIPUCOS",
+        "phone": "3355-4632",
+        "latitude": "-8,020766889",
+        "longitude": "-34,93414143"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 249 USF SANTANA",
+        "address": "RUA OLEGARINHA DA CUNHA, 333 - SANTANA",
+        "district": "SANTANA",
+        "phone": "3355-6222",
+        "latitude": "-8,040979353",
+        "longitude": "-34,91953412"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 258 USF SITIO DOS PINTOS / DR ANTONIO DA SILVA",
+        "address": "RUA PROFESSOR AGOSTINHO NUNES MACHADO, S/N - DOIS IRMAOS",
+        "district": "DOIS IRMAOS",
+        "phone": "3355-0070",
+        "latitude": "-8,014252107",
+        "longitude": "-34,9572292"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 259 USF SITIO SAO BRAZ",
+        "address": "TERCEIRA TRAVESSA DA RUA SAO BRAZ, 60 E 60A - DOIS IRMAOS",
+        "district": "DOIS IRMAOS",
+        "phone": "3355-0325",
+        "latitude": "-8,01801648",
+        "longitude": "-34,95738556"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 260 USF CORREGO DA FORTUNA",
+        "address": "AV PROFESSOR CLAUDIO SELVA, 1030 - DOIS IRMAOS",
+        "district": "DOIS IRMAOS",
+        "phone": "3355-0177",
+        "latitude": "-8,01205117",
+        "longitude": "-34,95215894"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 261 USF ALTO DO EUCALIPTO / EDNALDO VASCONCELOS",
+        "address": "RUA CAMBORIU, 664 - VASCO DA GAMA",
+        "district": "VASCO DA GAMA",
+        "phone": "3355-6082",
+        "latitude": "-8,008537237",
+        "longitude": "-34,91942761"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 287 USF ALTO JOSE DO PINHO /IRMA DENISE",
+        "address": "RUA MARAGOGI, 05 - ALTO JOSE DO PINHO",
+        "district": "ALTO JOSE DO PINHO",
+        "phone": "3355-6086",
+        "latitude": "-8,022116668",
+        "longitude": "-34,90755849"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 288 USF MORRO DA CONCEICAO",
+        "address": "RUA DA CONCEICAO, 589 - MORRO DA CONCEICAO",
+        "district": "CASA AMARELA",
+        "phone": "3355-6526",
+        "latitude": "-8,01881441",
+        "longitude": "-34,91429775"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 290 USF DA MANGABEIRA",
+        "address": "RUA DA MANGABEIRA,364 - MANGABEIRA",
+        "district": "MANGABEIRA",
+        "phone": "3355-6182",
+        "latitude": "-8,025316055",
+        "longitude": "-34,90330242"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 324 USF ALTO JOSE BONIFACIO / ALCIDES CODECEIRA",
+        "address": "PRCA VISCONDE DE SA BANDEIRA, S/N - ALTO JOSE BONIFACIO",
+        "district": "ALTO JOSE BONIFACIO",
+        "phone": "3355-6074",
+        "latitude": "-8,012241818",
+        "longitude": "-34,91232485"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 175 USF ALTO DA BRASILEIRA / DIOGENES CAVALCANTI / RESERVATORIO",
+        "address": "RUA ALTO DA BRASILEIRA,1002, RESERVATORIO - NOVA DESCOBERTA",
+        "district": "NOVA DESCOBERTA",
+        "phone": "3355-6402",
+        "latitude": "-8,001322598",
+        "longitude": "-34,93547968"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 183 USF SITIO DOS MACACOS",
+        "address": "ESTRADA DOS MACACOS, 47. VILA ARITANA - DOIS IRMAOS",
+        "district": "DOIS IRMAOS",
+        "phone": "3355-4551",
+        "latitude": "-7,995557364",
+        "longitude": "-34,95450865"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 231 USF CORREGO DA BICA/MARIA EDUARDA CESSE",
+        "address": "RUA SANTA TEREZA, S/N CORREGO DA BICA - GUABIRABA",
+        "district": "GUABIRABA",
+        "phone": "3355-6115",
+        "latitude": "-7,988244255",
+        "longitude": "-34,92928917"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 251 USF DA GUABIRABA",
+        "address": "AV OTACILIO DE AZEVEDO, 115 - GUABIRABA",
+        "district": "GUABIRABA",
+        "phone": "3355-6522",
+        "latitude": "-7,993813401",
+        "longitude": "-34,93530561"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 256 USF PASSARINHO BAIXO",
+        "address": "RUA DO CANARIO, 220  - PASSARINHO",
+        "district": "PASSARINHO",
+        "phone": "3355-4680",
+        "latitude": "-7,979715193",
+        "longitude": "-34,91693981"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 257 USF GILBERTO FREIRE / BOLA NA REDE",
+        "address": "RUA AMARO LUIZ DE CARVALHO, S/N - GUABIRABA",
+        "district": "GUABIRABA",
+        "phone": "3355-3800",
+        "latitude": "-7,966015429",
+        "longitude": "-34,92496471"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 272 USF SANTA TEREZA / FREI DAMIAO",
+        "address": "RUA ALTO SANTA TEREZA, 746 - NOVA DESCOBERTA",
+        "district": "NOVA DESCOBERTA",
+        "phone": "3355-4696",
+        "latitude": "-7,986251016",
+        "longitude": "-34,92685249"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 279 USF PASSARINHO ALTO",
+        "address": "RUA DAS ROSAS 120 - PASSARINHO",
+        "district": "PASSARINHO",
+        "phone": "3355-6195",
+        "latitude": "-7,9799605",
+        "longitude": "-34,91499806"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 283 USF VILA BOA VISTA",
+        "address": "AV VEREADOR OTACILIO DE AZEVEDO, 4598 - GUABIRABA",
+        "district": "GUABIRABA",
+        "phone": "3355-6242",
+        "latitude": "-7,995729666",
+        "longitude": "-34,92579288"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 305 USF DA MACAXEIRA / BURITY",
+        "address": "RUA MARIA CANDIDA, 87 - MACAXEIRA",
+        "district": "MACAXEIRA",
+        "phone": "3355-6839",
+        "latitude": "-8,010897702",
+        "longitude": "-34,9313243"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 350 USF CORREGO DO EUCALIPTO",
+        "address": "RUA TEREZA CARNEIRO, 26  - MACAXEIRA",
+        "district": "MACAXEIRA",
+        "phone": "3355-6902",
+        "latitude": "-8,006700295",
+        "longitude": "-34,9283029"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 352 USF DR HELIO MENDONCA / CORREGO DO JENIPAPO",
+        "address": "RUA ERUNDINA NEGREIROS DE ARAUJO, S/N - CORREGO DO JENIPAPO",
+        "district": "CORREGO DO JENIPAPO",
+        "phone": "3355-4689",
+        "latitude": "-8,006385198",
+        "longitude": "-34,93662567"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 162 POLICLINICA ALBERT SABIM",
+        "address": "R. PADRE ROMA,191 - TAMARINEIRA",
+        "district": "TAMARINEIRA",
+        "phone": "3355-2789",
+        "latitude": "-8,033962381",
+        "longitude": "-34,90517485"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 103 MARIO RAMOS",
+        "address": "RUA OSCAR DE BARROS , S/N - CASA AMARELA",
+        "district": "CASA AMARELA",
+        "phone": "3355-4434",
+        "latitude": "-8,022882817",
+        "longitude": "-34,91618245"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 109 FRANCISCO PIGNATARI",
+        "address": "RUA ESTRADA DO ARRAIL, S/N - CASA AMARELA",
+        "district": "CASA AMARELA",
+        "phone": "3355-4400",
+        "latitude": "-8,027559011",
+        "longitude": "-34,91869407"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 167 UNIDADE M. PROF. BARROS LIMA",
+        "address": "AV. NORTE , 6465 - CASA AMARELA",
+        "district": "CASA AMARELA",
+        "phone": "3355-2169",
+        "latitude": "-8,020878033",
+        "longitude": "-34,92322341"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 152 INÁ ROSA BORGES",
+        "address": "R SENADOR MILTON CAMPUS , S/N - VASCO DA GAMA",
+        "district": "VASCO DA GAMA",
+        "phone": "3355-4408",
+        "latitude": "-8,01629783",
+        "longitude": "-34,92109977"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 144 POLICLINICA CLEMENTINO FRAGA",
+        "address": "R. JAPARATUBA, 26 - CASA AMARELA",
+        "district": "CASA AMARELA",
+        "phone": "3355-6049",
+        "latitude": "-8,01949549",
+        "longitude": "-34,9198327"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 120 MARIO MONTEIRO",
+        "address": "LARGO D. REGINA,  99 - NOVA DESCOBERTA",
+        "district": "NOVA DESCOBERTA",
+        "phone": "3355-4385",
+        "latitude": "-8,018975167",
+        "longitude": "-34,92632866"
+    },
+    {
+        "rpa": "3",
+        "unit": "US 121 PROF. BRUNO MAIA",
+        "address": "ALTO DO REFÚGIO S/N - CÓRREGO DA AREIA",
+        "district": "CÓRREGO DA AREIA",
+        "phone": "3355-4416",
+        "latitude": "-8,000945036",
+        "longitude": "-34,92445082"
+    },
+    {
+        "rpa": "3",
+        "unit": "HOSPITAL DA POLÍCIA MILITAR",
+        "address": "PRAÇA DO DERBY, S/N -  DERBY",
+        "district": "DERBY",
+        "phone": "3181-1434",
+        "latitude": "-8,055607",
+        "longitude": "-34,901324"
+    },
+    {
+        "rpa": "3",
+        "unit": "HOSPITAL DOS SERVIDORES DO ESTADO",
+        "address": "AV. ROSA E SILVA, S/N -  ESPINHEIRO",
+        "district": "ESPINHEIRO",
+        "phone": "3183-4511",
+        "latitude": "-8,047959",
+        "longitude": "-34,896828"
+    },
+    {
+        "rpa": "3",
+        "unit": "HOSPITAL DA RESTAURAÇÃO",
+        "address": "AV. AGAMENON MAGALHÃES S/N -DERBY",
+        "district": "DERBY",
+        "phone": "3181-5597",
+        "latitude": "-8,053557",
+        "longitude": "-34,897826"
+    },
+    {
+        "rpa": "3",
+        "unit": "HOSPITAL AGAMENON MAGALHÃES",
+        "address": "ESTRADA DO ARRAIAL, 2723  - CASA AMARELA",
+        "district": "CASA AMARELA",
+        "phone": "3184-1720",
+        "latitude": "-8,030228",
+        "longitude": "-34,90716"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 184 USF VILA UNIAO / AIRTON SENA",
+        "address": "RUA NOVA ALIANCA, S/N  - IPUTINGA",
+        "district": "IPUTINGA",
+        "phone": "3355-4716",
+        "latitude": "-8,030669297",
+        "longitude": "-34,93273526"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 224 USF CARANGUEJO",
+        "address": "RUA TABAIARES, S/N - ILHA DO RETIRO",
+        "district": "ILHA DO RETIRO",
+        "phone": "3355-4644 / 3355-4645",
+        "latitude": "-8,064906619",
+        "longitude": "-34,90531218"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 225 USF SKYLAB",
+        "address": "RUA MAURICIO DE NASSAU, S/N  - IPUTINGA",
+        "district": "IPUTINGA",
+        "phone": "3355-6924",
+        "latitude": "-8,038811976",
+        "longitude": "-34,93072083"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 237 USF SITIO DAS PALMEIRAS",
+        "address": "RUA FELIXLANDIA, 176 - CORDEIRO",
+        "district": "CORDEIRO",
+        "phone": "3355-6448",
+        "latitude": "-8,051086994",
+        "longitude": "-34,93706505"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 280 USF SITIO CARDOSO",
+        "address": "RUA MENEZES DRUMONT, 99 - MADALENA",
+        "district": "MADALENA",
+        "phone": "3355-6704",
+        "latitude": "-8,051360747",
+        "longitude": "-34,90930545"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 307 USF EMOCY KRAUSE",
+        "address": "RUA CANTORA CLARA NUNES, S/N , SANTA LUZIA - CORDEIRO",
+        "district": "CORDEIRO",
+        "phone": "3355-3351",
+        "latitude": "-8,04460001",
+        "longitude": "-34,91689509"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 349 USF CASARAO DO CORDEIRO",
+        "address": "RUA ODETE MONTEIRO, 450 - CORDEIRO",
+        "district": "CORDEIRO",
+        "phone": "3355-6514",
+        "latitude": "-8,04452267",
+        "longitude": "-34,92128322"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 233 USF VIETNA I E II",
+        "address": "RUA EDUARDO CUSTODIO, 164 - TORROES",
+        "district": "TORROES",
+        "phone": "3355-6455",
+        "latitude": "-8,067634962",
+        "longitude": "-34,93474653"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 234 USF RODA DE FOGO / COSIROF",
+        "address": "RUA EDVALDO MARANHAO FERREIRA, 135 - TORROES",
+        "district": "TORROES",
+        "phone": "3355-6423",
+        "latitude": "-8,058527304",
+        "longitude": "-34,93865898"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 235 USF RODA DE FOGO / SINOS",
+        "address": "RUA DOS SINOS, 35 - TORROES",
+        "district": "TORROES",
+        "phone": "3355-6435",
+        "latitude": "-8,055022311",
+        "longitude": "-34,93861397"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 236 USF RODA DE FOGO / MACAE",
+        "address": "RUA MACAE, 125 - TORROES",
+        "district": "TORROES",
+        "phone": "3355-6179",
+        "latitude": "-8,061475145",
+        "longitude": "-34,93799703"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 252 USF ENGENHO DO MEIO",
+        "address": "RUA MANOEL ALVES DEUS DARA, 461 - ENGENHO DO MEIO",
+        "district": "ENGENHO DO MEIO",
+        "phone": "3355-6131",
+        "latitude": "-8,05713336",
+        "longitude": "-34,94607368"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 247 USF ROSA SELVAGEM",
+        "address": "RUA PROFESSOR OTAVIO TAVARES, 30, UR 07 - VARZEA",
+        "district": "VARZEA",
+        "phone": "3355-0204",
+        "latitude": "-8,032409363",
+        "longitude": "-34,97788002"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 248 USF BARREIRAS",
+        "address": "RUA AGUA CLARA, 145 - VARZEA",
+        "district": "VARZEA",
+        "phone": "3355-4879",
+        "latitude": "-8,024497931",
+        "longitude": "-34,96334486"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 254 USF BRASILIT",
+        "address": "RUA EMILIANO BRAGA, S/N - BRASILIT",
+        "district": "BRASILIT",
+        "phone": "3355-6411",
+        "latitude": "-8,036015834",
+        "longitude": "-34,94954974"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 255 USF CAMPO DO BANCO",
+        "address": "RUA GEN. ADAUTO GOMES BARBOSA , 09 - VARZEA",
+        "district": "VARZEA",
+        "phone": "3355-4640",
+        "latitude": "-8,048048859",
+        "longitude": "-34,95480059"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 295 USF COSME E DAMIAO",
+        "address": "RUA TOMAZ FERREIRA, 79 - VARZEA",
+        "district": "VARZEA",
+        "phone": "3355-0304 / 335-0305",
+        "latitude": "-8,033019326",
+        "longitude": "-34,9915375"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 331 USF PROFESSOR AMAURY DE MEDEIROS/BREGA E CHIQUE",
+        "address": "RUA RORAIMA, 102 - VARZEA",
+        "district": "VARZEA",
+        "phone": "3355-0308",
+        "latitude": "-8,039041114",
+        "longitude": "-34,97861379"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 337 USF SITIO WANDERLEY",
+        "address": "RUA HEMETERIO MACIEL, N 311, CAXITO - VARZEA",
+        "district": "VARZEA",
+        "phone": "3355-6230",
+        "latitude": "-8,038962566",
+        "longitude": "-34,95032345"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 378 USF JARDIM TERESOPOLIS",
+        "address": "RUA ANTONIO ROMANO, S/N - VARZEA",
+        "district": "VARZEA",
+        "phone": "3355-0404 / 3355-0407",
+        "latitude": "-8,034376513",
+        "longitude": "-34,97586077"
+    },
+    {
+        "rpa": "4",
+        "unit": "HOSPITAL DAS CLÍNICAS",
+        "address": "AV. PROF. MORAES REGO, 1235 - CIDADE UNIVERSITÁRIA",
+        "district": "CIDADE UNIVERSITÁRIA",
+        "phone": "2126-3633",
+        "latitude": "-8,044442",
+        "longitude": "-34,945463"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 128 POLICLÍNICA LESSA DE ANDRADE",
+        "address": "RUA ESTRADA DOS REMÉDIOS, 2416 - MADALENA",
+        "district": "MADALENA",
+        "phone": "3355-7826",
+        "latitude": "-8,058854329",
+        "longitude": "-34,90694276"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 106 CS PROF. JOAQUIM CAVALCANTE",
+        "address": "AV. FORTE DO ARRAIAL NOVO DO BOM JESUS, 1350 - TORRÕES",
+        "district": "TORROES",
+        "phone": "3355-4425",
+        "latitude": "-8,059006365",
+        "longitude": "-34,93181124"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 149 CS PROF. OLINTO DE OLIVEIRA",
+        "address": "RUA FRANCISCO DE PAULA, 47 - CAXANGÁ",
+        "district": "CAXANGÁ",
+        "phone": "3355-6442",
+        "latitude": "-8,03069298",
+        "longitude": "-34,95576363"
+    },
+    {
+        "rpa": "4",
+        "unit": "US 112 CS DR. JOSÉ DUSTAN",
+        "address": "AV. MAURÍCIO DE NASSAU, S/N - IPUTINGA",
+        "district": "IPUTINGA",
+        "phone": "3355-4358",
+        "latitude": "-8,038626508",
+        "longitude": "-34,93101098"
+    },
+    {
+        "rpa": "4",
+        "unit": "HOSPITAL BARÃO DE LUCENA",
+        "address": "AV. CAXANGÁ, S/N -IPUTINGA",
+        "district": "IPUTINGA",
+        "phone": "3184-6400",
+        "latitude": "-8,039258",
+        "longitude": "-34,93962"
+    },
+    {
+        "rpa": "4",
+        "unit": "HOSPITAL GETÚLIO VARGAS",
+        "address": "AV. GAL SAN MARTIN - CORDEIRO",
+        "district": "CORDEIRO",
+        "phone": "3184-5460",
+        "latitude": "-8,051071",
+        "longitude": "-34,922117"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 265 USF MANGUEIRA I",
+        "address": "RUA JUPIACARA, 70 - MANGUEIRA",
+        "district": "MANGUEIRA",
+        "phone": "3355-6186",
+        "latitude": "-8,075012353",
+        "longitude": "-34,92448121"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 266 USF MANGUEIRA II",
+        "address": "RUA FELICIANO CASTILHO, 64 - MANGUEIRA",
+        "district": "MANGUEIRA",
+        "phone": "3355-6686",
+        "latitude": "-8,07548113",
+        "longitude": "-34,92058532"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 300 USF DR GERALDO BARRETO CAMPELO / SAN MARTIN / POVO DE DEUS",
+        "address": "RUA COMENDADOR FRANCO FERREIRA, 876  - SAN MARTIN",
+        "district": "SAN MARTIN",
+        "phone": "3355-6126",
+        "latitude": "-8,073144307",
+        "longitude": "-34,92917383"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 301 USF BONGI / BOA IDEIA",
+        "address": "RUA ARAGUAIA, 83 - SAN MARTIN",
+        "district": "SAN MARTIN",
+        "phone": "3355-4636",
+        "latitude": "-8,069296276",
+        "longitude": "-34,92403745"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 284 USF VILA SAO MIGUEL / MARROM GLACE",
+        "address": "RUA MARIAPOLIS, 132  - AFOGADOS",
+        "district": "AFOGADOS",
+        "phone": "3355-6932",
+        "latitude": "-8,082412663",
+        "longitude": "-34,91185039"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 323 USF MUSTARDINHA",
+        "address": "RUA MAJOR MARIO PORTELA, 472 - MUSTARDINHA",
+        "district": "MUSTARDINHA",
+        "phone": "3355-6710",
+        "latitude": "-8,067677008",
+        "longitude": "-34,91572045"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 344 USF JIQUIA I E II",
+        "address": "RUA BEZINHA, 137 - JIQUIA",
+        "district": "JIQUIA",
+        "phone": "3355-4676",
+        "latitude": "-8,084060615",
+        "longitude": "-34,92405139"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 177 USF CHICO MENDES / XIMBORE",
+        "address": "PRIMEIRA TRAVESSA DO CAMPO, S/N - AREIAS",
+        "district": "AREIAS",
+        "phone": "3355-6426",
+        "latitude": "-8,101216818",
+        "longitude": "-34,93204312"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 186 USF JARDIM UCHOA",
+        "address": "RUA JUPIRACI, 130 - AREIAS",
+        "district": "AREIAS",
+        "phone": "3355-6211",
+        "latitude": "-8,10100432",
+        "longitude": "-34,93792792"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 238 USF IRAQUE / RUA DO RIO",
+        "address": "RUA MEARIM, 55 - ESTANCIA",
+        "district": "ESTANCIA",
+        "phone": "3355-6869",
+        "latitude": "-8,090673693",
+        "longitude": "-34,92790126"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 294 USF VILA TAMANDARE / BEIRINHA",
+        "address": "RUA DIAS CARDOSO, 11 - ESTANCIA",
+        "district": "ESTANCIA",
+        "phone": "3355-6254",
+        "latitude": "-8,093537148",
+        "longitude": "-34,92445032"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 239 USF COQUEIRAL I E II",
+        "address": "RUA MARIA TEREZA, 174 - COQUEIRAL",
+        "district": "COQUEIRAL",
+        "phone": "3355-0216",
+        "latitude": "-8,084460037",
+        "longitude": "-34,96937853"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 245 USF PLANETA DOS MACACOS II",
+        "address": "RUA EDGAR CARNEIRO, 929  - JARDIM SAO PAULO",
+        "district": "JARDIM SAO PAULO",
+        "phone": "3355-0059",
+        "latitude": "-8,078167277",
+        "longitude": "-34,95030166"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 338 USF GUARULHOS",
+        "address": "AV SAO PAULO, 605  - JARDIM SÃO PAULO",
+        "district": "JARDIM SAO PAULO",
+        "phone": "3355-6138",
+        "latitude": "-8,081161227",
+        "longitude": "-34,94028137"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 345 USF PLANETA DOS MACACOS I",
+        "address": "RUA QUATRO DE SETEMBRO, 145 - CURADO",
+        "district": "CURADO",
+        "phone": "3355-0035",
+        "latitude": "-8,081776633",
+        "longitude": "-34,95382921"
+    },
+    {
+        "rpa": "5",
+        "unit": "USF 117 DR. PEDRO GASPAR REGUEIRA COSTA",
+        "address": "RUA PADRE DIOGO RODRIGUES, 744 - BARRO",
+        "district": "BARRO",
+        "phone": "3355-2535",
+        "latitude": "-8,08983613",
+        "longitude": "-34,94220911"
+    },
+    {
+        "rpa": "5",
+        "unit": "HOSPITAL GERAL OTÁVIO DE FREITAS",
+        "address": "RUA APRÍGIO GUIMARÃES, S/N - TEJIPIÓ",
+        "district": "TEJIPIÓ",
+        "phone": "3182-8500",
+        "latitude": "-8,086551",
+        "longitude": "-34,961979"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 159 CS AGAMENON MAGALHÃES",
+        "address": "PRAÇA LARGO DA PAZ, S/N - AFOGADOS",
+        "district": "AFOGADOS",
+        "phone": "3355-2331",
+        "latitude": "-8,08058776",
+        "longitude": "-34,90551991"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 165 MATERNIDADE BANDEIRA FILHO",
+        "address": "RUA LONDRINA, S/N - AFOGADOS",
+        "district": "AFOGADOS",
+        "phone": "3355-2230",
+        "latitude": "-8,078977",
+        "longitude": "-34,910797"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 161 CS ROMERO MARQUES",
+        "address": "RUA CARLOS GOMES, 932 - MADALENA",
+        "district": "MADALENA",
+        "phone": "3355-4440",
+        "latitude": "-8,063814123",
+        "longitude": "-34,91370481"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 150  CS FERMAMDES FIGUEIRA",
+        "address": "PRAÇ JARDIM SÃO PAULO , S/N - JARDIM SÃO PAULO",
+        "district": "JARDIM SAO PAULO",
+        "phone": "3355-2537",
+        "latitude": "-8,082092521",
+        "longitude": "-34,9388242"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 158 PAM CEASA",
+        "address": "RODOVIA BR 101 SUL, 11606 - CURADO",
+        "district": "CURADO",
+        "phone": "3355-0090",
+        "latitude": "-8,072489579",
+        "longitude": "-34,94340487"
+    },
+    {
+        "rpa": "5",
+        "unit": "HOSPITAL GERAL DE AREIAS",
+        "address": "AV. RECIFE, S/N - VILA TAMANDARÉ",
+        "district": "AREIAS",
+        "phone": "3182-3000",
+        "latitude": "-8,100508",
+        "longitude": "-34,928008"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 142 BIDU KRAUSE",
+        "address": "AV. ONZE DE AGOSTO, S/N - TOTÓ",
+        "district": "TOTÓ",
+        "phone": "3355-2539",
+        "latitude": "-8,07950259",
+        "longitude": "-34,97027277"
+    },
+    {
+        "rpa": "5",
+        "unit": "US 164 CRAVO GAMA",
+        "address": "RUA DO ROSÁRIO, S/N - AFOGADOS",
+        "district": "AFOGADOS",
+        "phone": "3355-6651",
+        "latitude": "-8,0811407",
+        "longitude": "-34,91022383"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 173 USF DANCING DAYS",
+        "address": "RUA DANCING DAYS, 109  - IMBIRIBEIRA",
+        "district": "IMBIRIBEIRA",
+        "phone": "3355-6118",
+        "latitude": "-8,103690004",
+        "longitude": "-34,92168645"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 174 USF SITIO GRANDE",
+        "address": "AV LUXEMBURGO, 254, SITIO GRANDE - IMBIRIBEIRA",
+        "district": "IMBIRIBEIRA",
+        "phone": "3355-6685",
+        "latitude": "-8,102195347",
+        "longitude": "-34,91258197"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 187 USF ILHA DE DEUS",
+        "address": "RUA SAO JOSE, S/N,  ILHA DE DEUS  - IMBIRIBEIRA",
+        "district": "IMBIRIBEIRA",
+        "phone": "3355-6936",
+        "latitude": "-8,086537851",
+        "longitude": "-34,90190543"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 268 USF CAFESOPOLIS",
+        "address": "RUA MASCARENHAS DE MORAES, S/N  - IMBIRIBEIRA",
+        "district": "IMBIRIBEIRA",
+        "phone": "3355-6098",
+        "latitude": "-8,098967582",
+        "longitude": "-34,90987036"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 269 USF BEIRA DO RIO / COMUNIDADE BOA VIAGEM / LEONIDAS CRAVO GAMA",
+        "address": "RUA RIBEIRO DE BRITO, 1361  - BOA VIAGEM",
+        "district": "BOA VIAGEM",
+        "phone": "3355-6090",
+        "latitude": "-8,123183838",
+        "longitude": "-34,90886995"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 292 USF VILA DO IPSEP",
+        "address": "RUA VIRGINIA HERACLIO, S/N - IPSEP",
+        "district": "IPSEP",
+        "phone": "3355-6687",
+        "latitude": "-8,104898549",
+        "longitude": "-34,92335594"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 296 USF COQUEIRAL / IMBIRIBEIRA",
+        "address": "RUA SARGENTO SILVINO DE MACEDO, 129  - IMBIRIBEIRA",
+        "district": "IMBIRIBEIRA",
+        "phone": "3355-6103",
+        "latitude": "-8,113355928",
+        "longitude": "-34,90688825"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 297 USF DO PINA / JOAO RODRIGUES",
+        "address": "RUA BARREIROS, 90 - BEIRA RIO - PINA",
+        "district": "PINA",
+        "phone": "3355-4692",
+        "latitude": "-8,090128584",
+        "longitude": "-34,88503352"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 316 USF BERNARDO VAN LEER / BRASILIA TEIMOSA",
+        "address": "RUA FRANCISCO VAL PASSOS, S/N - BRASILIA TEIMOSA",
+        "district": "BRASILIA TEIMOSA",
+        "phone": "3355-6407",
+        "latitude": "-8,08567249",
+        "longitude": "-34,88290595"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 326 USF JADER DA ANDRADE / COMUNIDADE ENTRA APULSO",
+        "address": "RUA CORONEL ANISIO RODRIGUES COELHO, 08 -QD 121  - BOA VIAGEM",
+        "district": "BOA VIAGEM",
+        "phone": "3355-4673",
+        "latitude": "-8,12119499",
+        "longitude": "-34,90721928"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 342 USF DJALMA DE HOLANDA CAVALCANTE",
+        "address": "RUA DELFIN, 87  - BRASILIA TEIMOSA",
+        "district": "BRASILIA TEIMOSA",
+        "phone": "3355-6122",
+        "latitude": "-8,080168553",
+        "longitude": "-34,87793827"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 298 USF JORDÃO ALTO",
+        "address": "AV DONA CARENTINA, QD B/ LOTE II  - JORDÃO",
+        "district": "JORDÃO",
+        "phone": "3355-6162",
+        "latitude": "-8,134809882",
+        "longitude": "-34,94101056"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 299 USF JORDÃO BAIXO",
+        "address": "RUA JOSE MATORANO, 100  - JORDÃO",
+        "district": "JORDÃO",
+        "phone": "3355-3407",
+        "latitude": "-8,130105876",
+        "longitude": "-34,9393806"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 311 USF AGUA VIVA",
+        "address": "RUA TANABI, S/N, LOTE 4  - IBURA",
+        "district": "IBURA",
+        "phone": "3355-6825",
+        "latitude": "-8,126579397",
+        "longitude": "-34,94139057"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 312 USF VILA DO SESI",
+        "address": "RUA PROFESSOR FERNANDO MOTA, 217 - IBURA DE BAIXO",
+        "district": "IBURA",
+        "phone": "3355-6247",
+        "latitude": "-8,109481096",
+        "longitude": "-34,93938653"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 314 USF RIO DA PRATA",
+        "address": "RUA RIO DA PRATA, 455 - IBURA",
+        "district": "IBURA",
+        "phone": "3355-6215",
+        "latitude": "-8,118824858",
+        "longitude": "-34,937013"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 317 USF ALTO DA BELA VISTA",
+        "address": "RUA RIO DA PRATA, 455 - IBURA",
+        "district": "IBURA",
+        "phone": "3355-6078",
+        "latitude": "-8,123613857",
+        "longitude": "-34,94144326"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 346 USF ALTO DA JAQUEIRA",
+        "address": "RUA VINTE E DOIS DE AGOSTO, 56 - JORDÃO",
+        "district": "JORDÃO",
+        "phone": "3355-4625",
+        "latitude": "-8,134429383",
+        "longitude": "-34,93384201"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 351 USF PAZ E AMOR",
+        "address": "RUA SENADOR POMPEU, 120 - IBURA",
+        "district": "IBURA",
+        "phone": "3355-6650",
+        "latitude": "-8,116193855",
+        "longitude": "-34,93009484"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 373 USF CIDADE OPERARIA",
+        "address": "RUA EMILIO MONTEIRO FONSECA, 1688 - IBURA/COHAB",
+        "district": "COHAB",
+        "phone": "3355-3032",
+        "latitude": "-8,125524619",
+        "longitude": "-34,93694402"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 172 USF TRES CARNEIROS ALTO / JORGE LOBO",
+        "address": "RUA IBITIARA, 154 - TRES CARNEIROS ALTO - COHAB",
+        "district": "COHAB",
+        "phone": "3355-4713",
+        "latitude": "-8,12535689",
+        "longitude": "-34,95821898"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 228 USF UR 04/05 1 ETAPA / JOSE MANOEL DE FREITAS",
+        "address": "RUA CAPITAO VICENTE CURADO, 33, UR 04 - COHAB",
+        "district": "COHAB",
+        "phone": "3355-6166",
+        "latitude": "-8,132004623",
+        "longitude": "-34,94825996"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 229 USF UR 10 / ARNALDO DE FRANCA CALDAS",
+        "address": "RUA MONTE ALEGRE, 132, UR 10 - COHAB",
+        "district": "COHAB",
+        "phone": "3355-6909 / 3355-6910",
+        "latitude": "-8,136684718",
+        "longitude": "-34,95262966"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 230 USF LAGOA ENCANTADA",
+        "address": "AV DR BENIGNO JORDÃO DE VASCONCELOS, S/N- COHAB",
+        "district": "COHAB",
+        "phone": "3355-6174",
+        "latitude": "-8,120065506",
+        "longitude": "-34,9504665"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 250 USF UR 12 UR 5  3 ETAPA",
+        "address": "RUA FRANCISCO MIRANDA, 16 - COHAB",
+        "district": "COHAB",
+        "phone": "3355-6690",
+        "latitude": "-8,126240342",
+        "longitude": "-34,95310379"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 267 USF UR 02",
+        "address": "AV SANTA FE, 240 - UR 02 - COHAB",
+        "district": "COHAB",
+        "phone": "3355-6239",
+        "latitude": "-8,117149084",
+        "longitude": "-34,95525354"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 270 USF JARDIM MONTE VERDE",
+        "address": "AV CHAPADA DO ARARIPE, 116 - COHAB",
+        "district": "COHAB",
+        "phone": "3355-6158",
+        "latitude": "-8,115134984",
+        "longitude": "-34,95977812"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 281 USF VILA DOS MILAGRES",
+        "address": "RUA DAS FLORES, 60, VILA DOS MILAGRES  - IBURA",
+        "district": "IBURA",
+        "phone": "3355-6251",
+        "latitude": "-8,106095944",
+        "longitude": "-34,95030142"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 282 USF VILA DAS AEROMOCAS",
+        "address": "RUA AIQUARA, 25 -  VILA DAS AEROMOCAS - COHAB",
+        "district": "COHAB",
+        "phone": "3355-4620",
+        "latitude": "-8,136373606",
+        "longitude": "-34,95709906"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 289 USF JOSUE DE CASTRO / 27 DE NOVEMBRO",
+        "address": "AV CORACAO DE JESUS, S/N UR 03 - IBURA",
+        "district": "IBURA",
+        "phone": "3355-3037",
+        "latitude": "-8,110868332",
+        "longitude": "-34,9526877"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 313 USF TRES CARNEIROS DE BAIXO / ZUMBI DO PACHECO / SEVERINO DIAS",
+        "address": "AV CAMPO VERDE, S/N - TRES CARNEIROS BAIXO - COHAB",
+        "district": "COHAB",
+        "phone": "3355-4712",
+        "latitude": "-8,12778535",
+        "longitude": "-34,95613879"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 315 USF UR 03",
+        "address": "AV ENGENHO BABILONIA, 168  - IBURA",
+        "district": "IBURA",
+        "phone": "3355-6452",
+        "latitude": "-8,112562321",
+        "longitude": "-34,94969858"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 341 USF PANTANAL / PROFESSOR FERNANDES FIGUEIRA",
+        "address": "RUA BANDEIRANTE RAPOSO TAVARES,100 PANTANAL  - IBURA",
+        "district": "IBURA",
+        "phone": "3355-4684",
+        "latitude": "-8,106949688",
+        "longitude": "-34,95801146"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 347 USF PARQUE DOS MILAGRES",
+        "address": "RUA CLARA NUNES S/N - ALTO DOS MILAGRES - COHAB",
+        "district": "COHAB",
+        "phone": "3355-6190",
+        "latitude": "-8,113094126",
+        "longitude": "-34,94598445"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 119 PROF. JOSÉ CARNEIRO LEÃO",
+        "address": "RUA NOGUEIRA DE SOUZA, 334  PINA",
+        "district": "PINA",
+        "phone": "3355-4428",
+        "latitude": "-8,087387284",
+        "longitude": "-34,88978337"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 126 VEREADOR ROMILDO GOMES",
+        "address": "RUA JALISCO, S/N  IMBIRIBEIRA",
+        "district": "IMBIRIBEIRA",
+        "phone": "3355-3330",
+        "latitude": "-8,116677633",
+        "longitude": "-34,91100333"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 137 DJAIR BRINDEIRO - COMAR",
+        "address": "RUA COSMORANA, S/N - BOA VIAGEM",
+        "district": "BOA VIAGEM",
+        "phone": "3355-0119",
+        "latitude": "-8,148218836",
+        "longitude": "-34,91367723"
+    },
+    {
+        "rpa": "6",
+        "unit": "USF 187 ILHA DE DEUS - PINA",
+        "address": "RUA BARREIROS, 120 - PINA",
+        "district": "PINA",
+        "phone": "3355-2223",
+        "latitude": "-8,086537851",
+        "longitude": "-34,90190543"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 148 CS DOM MIGUEL DE LIMA VALVERDE",
+        "address": "RUA FELICIANO JOSÉ DE CASTRO , 195 - BOA  VIAGEM",
+        "district": "BOA VIAGEM",
+        "phone": "3355-0160",
+        "latitude": "-8,133421089",
+        "longitude": "-34,90465997"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 293 POLICLÍNICA DO PINA",
+        "address": "AV. REPÚBLICA DO LÍBANO, 355 - PINA",
+        "district": "PINA",
+        "phone": "3355-1350",
+        "latitude": "-8,08600535",
+        "longitude": "-34,89049059"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 113 CS. ARISTARCO DOURADO DE AZEVEDO",
+        "address": "RUA BAHIA, 29 - JORDÃO BAIXO",
+        "district": "JORDÃO",
+        "phone": "3355-4381",
+        "latitude": "-8,131577726",
+        "longitude": "-34,93700993"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 153 POL. E MATERNIDADE ARNALDO MARQUES",
+        "address": "AV. DOIS RIOS, S/N - IBURA",
+        "district": "IBURA",
+        "phone": "3355-1820",
+        "latitude": "-8,120497443",
+        "longitude": "-34,94403371"
+    },
+    {
+        "rpa": "6",
+        "unit": "US 104 CS. PROF. SEBASTIÃO IVO RABELO",
+        "address": "AV. CAMPINA GRANDE, S/N UR 01",
+        "district": "IBURA",
+        "phone": "3355-4444",
+        "latitude": "-8,119632056",
+        "longitude": "-34,94788159"
+    },
+    {
+        "rpa": "6",
+        "unit": "USF 289 PSF JOSUE DE CASTRO - 27 DE NOVEMBRO",
+        "address": "RUA CORAÇÃO DE JESUS, S/N  UR 03",
+        "district": "MUSTARDINHA",
+        "phone": "3355-6438",
+        "latitude": "-8,074802",
+        "longitude": "-34,919232"
+    }
+]

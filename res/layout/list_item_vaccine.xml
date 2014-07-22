@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+              
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           	android:paddingLeft="10dp"
+           	android:paddingRight="10dp"
+            android:orientation="horizontal"
+	        android:background="@color/blue"
+            android:weightSum="1">
+
+	    <TextView
+	        android:id="@+id/vaccineName"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+           	android:layout_weight="0.9"
+           	android:gravity="center_vertical"
+	        android:minLines="3"
+	        android:textColor="@color/white"
+	        android:textStyle="bold"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageButton
+	        android:id="@+id/expandable_toggle_button"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:layout_gravity="center"
+           	android:gravity="center"
+           	android:src="@drawable/ic_arrow_down"
+           	android:background="@android:color/transparent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:orientation="vertical"
+            android:id="@+id/expandable"
+            android:background="@color/gray">
+        
+        <TextView
+	        android:id="@+id/dosage"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        <TextView
+	        android:id="@+id/dosageQuantity"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        <TextView
+	        android:id="@+id/way"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        <TextView
+	        android:id="@+id/description"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+</LinearLayout>
