@@ -25,6 +25,7 @@
         android:gravity="center"
         android:text="@string/vaccine"
         android:textColor="@color/yellow"
+        android:textStyle="bold"
         android:textSize="60sp" />
     
     <TextView
@@ -32,7 +33,6 @@
         android:layout_height="0dp"
         android:layout_weight="0.2"
         android:gravity="top|center_horizontal"
-        android:textStyle="bold"
         android:text="@string/recife"
         android:textColor="@color/yellow"
         android:textSize="40sp" />

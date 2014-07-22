@@ -108,7 +108,7 @@ public class VaccinationUnitsActivity extends Activity {
 				try {
 					map.addMarker(new MarkerOptions()
 		            .title(vu.unit) 
-		            .snippet(vu.address + ", " + vu.district)
+		            .snippet(vu.address)
 		            .icon(BitmapDescriptorFactory.fromBitmap(BitmapFactory.decodeResource(getResources(), R.drawable.ic_map_marker)))
 		            .position(new LatLng(Double.parseDouble(vu.latitude.replace(",", ".")), Double.parseDouble(vu.longitude.replace(",", ".")))));
 				} catch (Exception e) { }
